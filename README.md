@@ -1,17 +1,21 @@
-# credit_car_challenge
+## 📊 CreditCardChallenge #
+ FlutterApp to control spending on credit cards
+ 
+ ## 🔐 API Source 
+The sources of the API used in this project can be found at the link: https://github.com/joaoneto147/CreditCardChallengeAPI
+ 
+ ## ⚙️ Built with Amazing Tools #
+* [Flutter](https://flutter.dev/) - Beautiful native apps in record time.
+* [Android Studio](https://developer.android.com/studio/index.html/) - Tools for building Awesome apps on every type of Android device.
+* [Visual Studio Code](https://code.visualstudio.com/) - Code editing. Redefined.
 
-A new Flutter project.
+## 🤝 Show Some Support #
+If you liked the app give this repo a ⭐️ 
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## 🐞 Bugs/Requests #
+If you encounter any problems feel free to open an issue. If you feel the library is missing a feature, please raise a ticket on Github and I'll look into it. Pull request are also welcome.
+ 
+## 👏 Credits # 
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# Credit_Card_Challenge
+Renato Mota for the creation of the FlipCard widget that was used in this project. All the development of it is found in the link: https://github.com/RenatoLucasMota/CreditCardChallenge
